@@ -13,7 +13,7 @@
             <input type="text" name="txtNom" placeHolder="Nombres">
             <input type="text" name="txtApe" placeHolder="Apellidos">
             <input type="text" name="txtDni" placeHolder="DNI">
-            <input type="submit" value="guardar">
+            <input type="submit" value="Guardar">
         </form>
     </div>
 </body>
