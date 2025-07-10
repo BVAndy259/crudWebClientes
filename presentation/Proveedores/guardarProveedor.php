@@ -12,7 +12,7 @@
         <form action="" method="post">
             <input type="text" name="txtNom" placeHolder="Nombre">
             <input type="text" name="txtRuc" placeHolder="RUC">
-            <input type="submit" value="guardar">
+            <input type="submit" value="Guardar">
         </form>
     </div>
 </body>
